@@ -157,9 +157,9 @@ a.white {
 .btn-solid-lg {
 	display: inline-block;
 	padding: 1.375rem 2.625rem 1.375rem 2.625rem;
-	border: 0.125rem solid #f76e9e;
+	border: 0.125rem solid #f5f5fa;
 	border-radius: 2rem;
-	background-color: #f8689a;
+	background-color: #e2b460;
 	color: rgba(251, 253, 255, 0.842);
 	font: 700 0.75rem/0 "Raleway", sans-serif;
 	text-decoration: none;
@@ -168,7 +168,7 @@ a.white {
 
 .btn-solid-lg:hover {
 	background-color: transparent;
-	color: #f76196;
+	color: #1e63bd;
 	text-decoration: none;
 }
 
