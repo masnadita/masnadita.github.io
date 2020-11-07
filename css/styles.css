@@ -1451,7 +1451,7 @@ screen and (-ms-high-contrast: none) {
 }
 
 .basic-4 .fa-stack-2x {
-	color: #f7bacf;
+	color: #4756db;
 	transition: all 0.2s ease;
 }
 
@@ -1461,7 +1461,7 @@ screen and (-ms-high-contrast: none) {
 }
 
 .basic-4 .fa-stack:hover .fa-stack-2x {
-	color: #00a7bd;
+	color: #3763dd;
 }
 
 .basic-4 .fa-stack:hover .fa-stack-1x {
@@ -1900,11 +1900,11 @@ a:hover.back-to-top {
 	}
 
 	.navbar-custom .fa-stack:hover .fa-stack-1x {
-		color: #f7bacf;
+		color: #8fb3e9;
 	}
 
 	.navbar-custom.top-nav-collapse .fa-stack-2x {
-		color: #f7bacf;
+		color: #90c9f8;
 	}
 
 	.navbar-custom.top-nav-collapse .fa-stack-1x {
