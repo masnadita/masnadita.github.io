@@ -6,7 +6,6 @@
 /*****************************************
 Table Of Contents:
 
-
 01. General Styles
 02. Preloader
 03. Navigation
@@ -133,15 +132,15 @@ a.white {
 }
 
 .turquoise {
-	color: #f86b9d;
+	color: #fa5e95;
 }
 
 .btn-solid-reg {
 	display: inline-block;
 	padding: 1.1875rem 2.125rem 1.1875rem 2.125rem;
-	border: 0.125rem solid #f86a9c;
+	border: 0.125rem solid #f35c91;
 	border-radius: 2rem;
-	background-color: #fd6ea0;
+	background-color: #f76095;
 	color: #fff;
 	font: 700 0.75rem/0 "Raleway", sans-serif;
 	text-decoration: none;
@@ -193,17 +192,17 @@ a.white {
 .btn-outline-lg {
 	display: inline-block;
 	padding: 1.375rem 2.625rem 1.375rem 2.625rem;
-	border: 0.125rem solid #f576a2;
+	border: 0.125rem solid #fa6e9f;
 	border-radius: 2rem;
 	background-color: transparent;
-	color: #f75e94;
+	color: #fa548e;
 	font: 700 0.75rem/0 "Raleway", sans-serif;
 	text-decoration: none;
 	transition: all 0.2s;
 }
 
 .btn-outline-lg:hover {
-	background-color: #fc659a;
+	background-color: #fa5790;
 	color: #fff;
 	text-decoration: none;
 }
@@ -1559,7 +1558,7 @@ screen and (-ms-high-contrast: none) {
 }
 
 .footer .fa-stack .fa-stack-2x {
-	color: #f04782;
+	color: #fc508c;
 	transition: all 0.2s ease;
 }
 
@@ -1568,7 +1567,7 @@ screen and (-ms-high-contrast: none) {
 }
 
 .footer .fa-stack:hover .fa-stack-2x {
-	color: #00a7bd;
+	color: #058cca;
 }
 
 
@@ -1606,7 +1605,7 @@ a.back-to-top {
 }
 
 a:hover.back-to-top {
-	background-color: #00a7bd;
+	background-color: #ef3ff5;
 }
 
 
@@ -1912,7 +1911,7 @@ a:hover.back-to-top {
 	}
 
 	.navbar-custom.top-nav-collapse .fa-stack:hover .fa-stack-2x {
-		color: #00a7bd;
+		color: #84e8f5;
 	}
 
 	.navbar-custom.top-nav-collapse .fa-stack:hover .fa-stack-1x {
